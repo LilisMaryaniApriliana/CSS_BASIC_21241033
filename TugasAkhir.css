@@ -1,0 +1,29 @@
+a:hover {
+    color: rgb(124, 131, 870);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+}
+a:active {
+    font-style: italic;
+}
+a:visited {
+    color:blue;
+}
+body {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: #999999;
+    background-image: url(img/bg10.webp);
+}
+p {
+    line-height: 2em;
+    text-align: 2.5%;
+    word-spacing: 2.55px;
+    text-indent: 15.5px;
+}
+
+h3,h4 {
+    color: #999999;
+}
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
